@@ -3352,7 +3352,7 @@ data:
     provisioning = /etc/grafana/provisioning
     [server]
     domain: 20.43.189.255
-    root_url: "http://20.43.189.255/istio/grafana"
+    root_url: http://20.43.189.255/istio/grafana
 
 
   datasources.yaml: |
